@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Valetine</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <string name="pdf_show_local_progress_content">Hello world!</string>
+    <string name="pdf_show_local_progress_title">Settings</string>
+    <string name="pdf_show_online_dialog_title">Hello world!</string>
+    <string name="pdf_show_online_dialog_question">Settings</string>
+    <string name="pdf_show_online_dialog_button_no">No</string>
+    <string name="pdf_show_online_dialog_button_yes">yes</string>
+</resources>
